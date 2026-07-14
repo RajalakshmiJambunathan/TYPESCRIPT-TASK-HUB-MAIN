@@ -28,7 +28,7 @@ class Employee {
     
     else{
         console.log("invalid salary and working days")
-        return 0;
+        return 0 ;
         }
     
  }
